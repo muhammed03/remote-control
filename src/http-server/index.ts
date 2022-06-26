@@ -1,4 +1,4 @@
-import { readFile} from 'fs';
+import { readFile } from 'fs';
 import { resolve, dirname } from 'path';
 import { createServer }from 'http';
 
