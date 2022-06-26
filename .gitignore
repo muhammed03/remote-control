@@ -1,7 +1,7 @@
 # dependencies
 /node_modules
 /dist/
-
+/build
 # System Files
 .DS_Store
 Thumbs.db
